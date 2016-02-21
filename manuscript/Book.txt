@@ -1,1 +1,2 @@
+{frontmatter}
 declaracion-de-intenciones.md
