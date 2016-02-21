@@ -1,2 +1,4 @@
 {frontmatter}
 declaracion-de-intenciones.md
+{mainmatter}
+# 2016, febrero
