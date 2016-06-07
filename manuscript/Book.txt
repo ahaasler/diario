@@ -18,3 +18,4 @@ declaracion-de-intenciones.md
 2016/05/31.md
 2016/06/index.md
 2016/06/06.md
+2016/06/07.md
