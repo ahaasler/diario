@@ -27,3 +27,4 @@ declaracion-de-intenciones.md
 2016/06/20.md
 2016/06/24.md
 2016/06/26.md
+2016/06/29.md
